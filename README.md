@@ -3,11 +3,8 @@
 This project provides a solver for a N-Puzzle Game.
 
 ## Game Rules
-The rules of the game can be found here: http://mypuzzle.org/sliding
+The game rules can be found here: http://mypuzzle.org/sliding
 
-An instance of the N-puzzle game consists of a board holding N = m^2 ? 1 (m = 3, 4, 5, ...).
-
-For an 8-puzzle game, we have N=8 = 3^2 -1.
 
 ## Prerequisites
 
@@ -57,7 +54,7 @@ When executed, the program will create/write to a file called output.txt, contai
 The grid here is of size 3x3 = 9
 
 The path followed by the algorithm would be:
-![Image](https://studio.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@pset1_diagram.png)
+![Image](https://studio.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@pset1_diagram.png = 250x250)
 
 The output file (example) will contain exactly the following lines:
 
