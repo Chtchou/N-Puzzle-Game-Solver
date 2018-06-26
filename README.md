@@ -1,4 +1,4 @@
-# N-Puzzle Game Solver
+# N-Puzzle-Game-Solver
 
 This project provides a solver for a N-Puzzle Game.
 
