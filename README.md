@@ -73,9 +73,6 @@ The output file (example) will contain exactly the following lines:
 >
 >max_ram_usage: 0.07812500
 
-## Author
-Christian Tchou
-
 ## Algorithms used 
 
 BFS: https://en.wikipedia.org/wiki/Breadth-first_search
