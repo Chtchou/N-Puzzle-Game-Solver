@@ -54,7 +54,8 @@ When executed, the program will create/write to a file called output.txt, contai
 The grid here is of size 3x3 = 9
 
 The path followed by the algorithm would be:
-![Image](https://studio.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@pset1_diagram.png =250x250)
+
+<img src="https://studio.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@pset1_diagram.png" width="300">
 
 The output file (example) will contain exactly the following lines:
 
